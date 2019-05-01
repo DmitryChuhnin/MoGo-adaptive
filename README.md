@@ -1,2 +1,2 @@
 # MoGo-adaptive
-Adaptive web-site
+Adaptive web-site on Flex
