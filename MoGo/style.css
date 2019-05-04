@@ -54,7 +54,7 @@ hr{
     text-align: center;
 }
 .intro__title{
-    font-size: 150px;
+    font-size: 120px;
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1;
@@ -72,7 +72,7 @@ hr{
 .intro__suptitle{
     margin-bottom: 20px;
     font-family: 'Kaushan Script', cursive;
-    font-size: 72px;
+    font-size: 65px;
     color: #ffffff;
 }
 
@@ -1043,10 +1043,10 @@ hr{
 
     /* Intro */
     .intro__suptitle{
-        font-size: 52px;
+        font-size: 48px;
     }
     .intro__title{
-        font-size: 120px;
+        font-size: 90px;
     }
 
     /* Reviews */
